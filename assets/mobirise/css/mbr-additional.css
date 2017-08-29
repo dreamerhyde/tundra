@@ -1805,78 +1805,30 @@ body {
     font-size: 40px !important;
   }
 }
-.cid-qtCcIbPW1Y {
-  padding-top: 90px;
+.cid-qtEPRGjV6R {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qtEPRGjV6R .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qtEPedWPG6 {
+  padding-top: 30px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
-.cid-qtCcIbPW1Y .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qtCcIbPW1Y .mbr-text {
-  color: #767676;
-}
-.cid-qtCcIbPW1Y .card {
-  display: flex;
-  position: relative;
-  justify-content: center;
-}
-.cid-qtCcIbPW1Y .card-wrapper {
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-qtCcIbPW1Y .card-wrapper .card-img {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  overflow: hidden;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-}
-.cid-qtCcIbPW1Y .card-wrapper .card-img .mbr-overlay {
-  background-color: #efefef;
-  display: none;
-  transition: opacity .3s;
-}
-.cid-qtCcIbPW1Y .card-wrapper .card-img .mbr-section-btn {
-  position: absolute;
-  transition: opacity .3s;
-  margin: auto;
-}
-.cid-qtCcIbPW1Y .card-wrapper .card-box {
-  background-color: #efefef;
-  padding: 0 2rem 2rem 2rem;
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-}
-.cid-qtCcIbPW1Y .card-wrapper .card-box h4 {
+.cid-qtEPedWPG6 h4 {
   font-weight: 500;
   margin-bottom: 0;
+  text-align: left;
+}
+.cid-qtEPedWPG6 p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qtEPedWPG6 .card-box {
   padding-top: 2rem;
-}
-.cid-qtCcIbPW1Y .card-wrapper .card-box p {
-  margin-bottom: 0;
-  padding-top: 1.5rem;
-}
-.cid-qtCcIbPW1Y .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-.cid-qtCcIbPW1Y .popup-btn .mbr-overlay {
-  display: block !important;
-  opacity: 0;
-}
-.cid-qtCcIbPW1Y .popup-btn .mbr-section-btn {
-  display: block !important;
-  opacity: 0;
-}
-.cid-qtCcIbPW1Y .popup-btn:hover .mbr-overlay {
-  opacity: .5;
-}
-.cid-qtCcIbPW1Y .popup-btn:hover .mbr-section-btn {
-  opacity: 1;
 }
 .cid-qtCjoXbrBL {
   padding-top: 90px;
